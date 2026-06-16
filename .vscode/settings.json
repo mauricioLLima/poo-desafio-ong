@@ -11,5 +11,5 @@
         "java": "cd $dir && \"C:\\Program Files\\Eclipse Adoptium\\jdk-25.0.2.10-hotspot\\bin\\javac.exe\" MembroONG.java Voluntario.java Doador.java ProjetoSocial.java SistemaMain.java && \"C:\\Program Files\\Eclipse Adoptium\\jdk-25.0.2.10-hotspot\\bin\\java.exe\" $fileNameWithoutExt"
     },
     "code-runner.runInTerminal": true,
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
 }
