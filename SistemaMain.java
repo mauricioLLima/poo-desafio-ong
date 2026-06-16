@@ -14,7 +14,7 @@ public class SistemaMain {
         doador.setDiasAtuacao(60);
         doador.setValorDoadoMensal(250.00);
 
-        ProjetoSocial progjeto = new ProjetoSocial();
+        ProjetoSocial projeto = new ProjetoSocial();
         projeto.setNomeDoProjeto("Educar para Transformar");
         projeto.setMetaImpacto(500);
         projeto.setLider(voluntario);
